@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+h1{
+    font-size: 18px;
+}
+
+.first{
+    color: green;
+    font-size: 14px;
+    border: 1.5px solid orangered;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+.second{
+    color: red;
+    font-size: 14px;
+    border: 1.5px solid orange;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px 20px;
+}
+.thrid{
+    color: blue;
+    font-size: 14px;
+    border: 1.5px solid olivedrab;
+    border-radius: 20px;
+    padding: 20px;
+    margin:  50px 60px;
+}
